@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rushidave01
+- 👋 Hi, I’m Rushik Dave
 - 👀 I’m interested in research work of Mobile Application developement field
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on people who have some innovative ideas & able to take risk to invest there time as well as money on research work.
